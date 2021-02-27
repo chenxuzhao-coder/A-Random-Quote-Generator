@@ -2,7 +2,6 @@
 Hi teacher, please review my project in Exceeds criteria, which means if I acheive 
 the Meets Expectation but there are something wrong about Exceeds Expectation, please give me
 a second chance to edit my code and submit again. Thanks a lot.
-
 */
 
 
